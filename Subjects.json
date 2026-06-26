@@ -1,0 +1,279 @@
+{
+    "Name": "",
+    "TimeLayouts": {},
+    "ClassPlans": {},
+    "Subjects": {
+        "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
+            "Name": "\u8BED\u6587",
+            "Initial": "\u8BED",
+            "TeacherName": "\u5F20\u4E49\u6770",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "1154d452-5ede-4194-b4dd-cb40c956c8ed": {
+            "Name": "\u6570\u5B66",
+            "Initial": "\u6570",
+            "TeacherName": "\u738B\u7FA4",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd": {
+            "Name": "\u82F1\u8BED",
+            "Initial": "\u82F1",
+            "TeacherName": "\u51AF\u4E39",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04": {
+            "Name": "\u5386\u53F2",
+            "Initial": "\u5386",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "9f0d71b7-b4da-4040-a3d5-64da7573c6dd": {
+            "Name": "\u653F\u6CBB",
+            "Initial": "\u653F",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "a4a76e77-29d8-4103-882c-2f4c9d1e8077": {
+            "Name": "\u7269\u7406",
+            "Initial": "\u7269",
+            "TeacherName": "\u5F20\u6D77\u8FDE",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "d18e9906-0210-4f00-9dd6-b919f0dd8287": {
+            "Name": "\u5316\u5B66",
+            "Initial": "\u5316",
+            "TeacherName": "\u6BD5\u6EC7\u660E",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca": {
+            "Name": "\u751F\u7269",
+            "Initial": "\u751F",
+            "TeacherName": "\u4F55\u6D0B\u5174",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "7b7aea95-30ad-4490-8d98-0c9179c47a10": {
+            "Name": "\u5730\u7406",
+            "Initial": "\u5730",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "66d1c380-d292-46e1-86d5-d403e2a4f200": {
+            "Name": "\u4FE1\u606F\u6280\u672F",
+            "Initial": "\u4FE1",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0ed2307b-4d9b-48fa-97ed-94bd2213c84e": {
+            "Name": "\u4F53\u80B2",
+            "Initial": "\u4F53",
+            "TeacherName": "\u674E\u6D69\u7136",
+            "IsOutDoor": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "923f4a8b-51eb-468b-971d-bb02e7db0163": {
+            "Name": "\u81EA\u4E60",
+            "Initial": "\u81EA",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "0d412099-dac6-4616-b6a7-c4fb76b12063": {
+            "Name": "\u901A\u7528\u6280\u672F",
+            "Initial": "\u6280",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "91a88ebb-8ecb-493e-b09c-e35718f01dce": {
+            "Name": "\u97F3\u4E50",
+            "Initial": "\u97F3",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "742b00dc-901b-496f-ae33-6714a13fa465": {
+            "Name": "\u7F8E\u672F",
+            "Initial": "\u7F8E",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "353c420e-c256-4e28-9f9c-283333ba6e62": {
+            "Name": "\u9009\u4FEE\u8BFE",
+            "Initial": "\u9009",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "cc826063-bdb7-492b-baf3-3c6877e8c4bf": {
+            "Name": "\u793E\u56E2",
+            "Initial": "\u793E",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "31380edc-400d-46c2-b993-a5c4a43db126": {
+            "Name": "\u5FC3\u7406",
+            "Initial": "\u5FC3",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "9875b24c-470d-4195-8a6a-73925ea4808b": {
+            "Name": "\u65E9\u8BFB",
+            "Initial": "\u65E9",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "cf251cd8-2aab-4aa1-8211-50f4e6919a3d": {
+            "Name": "\u73ED\u4F1A",
+            "Initial": "\u73ED",
+            "TeacherName": "\u4EBA",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "95dd61cd-5d2e-4f23-80e8-99be8aa97028": {
+            "Name": "\u5468\u6D4B",
+            "Initial": "\u6D4B",
+            "TeacherName": "\u6240\u6709\u4EBA",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "837adac8-4134-40fb-b846-185d814b6ab8": {
+            "Name": "\u4F53\u80B2\u8D70\u73ED",
+            "Initial": "\u8D70",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "b49a6a18-ee7a-410e-b976-bd63fffd10d9": {
+            "Name": "\u9605\u8BFB",
+            "Initial": "\u9605",
+            "TeacherName": "\u5F20\u4E49\u6770",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "fd569e9d-ede3-451d-afc4-8f10e2cbc3b4": {
+            "Name": "\u6570\u5B66\u8003\u8BD5",
+            "Initial": "\u6570\u8003",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOffOverlayText": "",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "9b246924-0277-46e5-8037-e21d54e7b5ec": {
+            "Name": "\u65B0\u95FB\u5468\u520A",
+            "Initial": "\u65B0",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "d016bbdd-386d-4848-8959-7ca037e10812": {
+            "Name": "\u516C\u5F00\u8BFE",
+            "Initial": "\u516C",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "a79ba6cf-5d6c-442d-ad30-4d89793b1c2f": {
+            "Name": "\u8BED\u6587\u65E9\u8BFB",
+            "Initial": "\u8BED\u65E9",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": false,
+                    "IsClassOnPreparingNotificationEnabled": false,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOffOverlayText": "",
+                    "IsAttachSettingsEnabled": true,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "67996198-a585-4838-8c28-fcb77a0d4a54": {
+            "Name": "\u82F1\u8BED\u65E9\u8BFB",
+            "Initial": "\u82F1\u65E9",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": false,
+                    "IsClassOnPreparingNotificationEnabled": false,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOffOverlayText": "",
+                    "IsAttachSettingsEnabled": true,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        }
+    }
+}
