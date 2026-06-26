@@ -1,7 +1,7 @@
 {
     "ServerKind": 0,
     "CoreVersion": "2.0.0.0",
-    "OrganizationName": "NCNet"
+    "OrganizationName": "NCNet",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/TBHLLL/classisland-mgmt-cfg/master/classplans.json",
         "Version": 1
